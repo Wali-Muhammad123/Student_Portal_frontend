@@ -1,0 +1,29 @@
+@media (min-width: 300px) {
+  div {
+    display: block;
+  }
+}
+
+.fit-cover {
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  #pyment {
+    padding-top: 22px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .pyar {
+    padding-right: 2px;
+  }
+}
+
+@media (min-width: 300px) {
+  div {
+    display: block;
+  }
+}
+
